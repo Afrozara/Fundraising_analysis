@@ -2,7 +2,7 @@
 ## Overview of Project
 ### Purpose
 ## Analysis and Challenges
-[count outcomes countries](resources/outcomebuycountries.png)
+![count outcomes countries](resources/outcomebuycountries.png)
 ### Analysis of Outcomes Based on Launch Date
 .[Launch Date](resources/OutcomesTheaterLaunchDate.png)
 ### Analysis of Outcomes Based on Goals
