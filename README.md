@@ -7,7 +7,6 @@
 .[Launch Date](resources/OutcomesTheaterLaunchDate.png)
 ### Analysis of Outcomes Based on Goals
 [Outcomes Based on Goals](resources/OutcomesBasedGoals.png)
-
 ### Challenges and Difficulties Encountered
 [date conversion](resources/trend.png)
 ## Results
