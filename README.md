@@ -4,7 +4,9 @@
 ## Analysis and Challenges
 ![count outcomes countries](resources/outcomebuycountries.png)
 ### Analysis of Outcomes Based on Launch Date
-.![Launch Date](resources/OutcomesTheaterLaunchDate.png)
+![Launch Date](resources/OutcomesTheaterLaunchDate.png)
+
+The char most successful campaigns are organized in May
 ### Analysis of Outcomes Based on Goals
 ![Outcomes Based on Goals](resources/OutcomesBasedGoals.png)
 ### Challenges and Difficulties Encountered
