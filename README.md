@@ -11,4 +11,4 @@
 ### Challenges and Difficulties Encountered
 [Challenges and Difficulties Encountered](resources/trend.png)
 ## Results
-[Results](resources/outcomecategory.png)
+[the successful and failed of category](resources/outcomecategory.png)
