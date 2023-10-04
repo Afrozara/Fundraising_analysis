@@ -4,7 +4,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-.[launch Date](resources/OutcomesTheaterLaunchDate.png)
+.[Launch Date](resources/OutcomesTheaterLaunchDate.png)
 ### Analysis of Outcomes Based on Goals
 [Outcomes Based on Goals](resources/OutcomesBasedGoals.png)
 
