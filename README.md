@@ -6,12 +6,15 @@ overview of the project is a challenge, an exercise of Excel prowess by creating
 the purpose was for Louise’s play Fever to come close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared about their launch dates and their funding goals. Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. We need to provide visualized feedback to Louise with insights to help her gain a better understanding of the campaign from start to finish so that she will be able to set her campaign to mirror other successful ones in the same category.
 
 ## Analysis and Challenges
-![this was  based on the Outcomes of the Parent Category.](resources/Analysis and Challenges.png)
+ we figured it had to be sorted and prepared for the analysis by creating a new column to show Percentage funded, Average Donation, split categories and subcategories, convert dates, and also creating a new column for the year of the Launched date.
+![This was  based on the Outcomes of the Parent Category.](resources/Analysis and Challenges.png)
+The below chart is based on the Outcomes of the Parent Category. This chart shows that Theater was the most successful overall. 
 ![count outcomes countries](resources/outcomebuycountries.png)
+The below chart is based on the Subcategory Outcomes. And it helps us to conclude that the subcategory "Plays" is the most successful of all. 
 ### Analysis of Outcomes Based on Launch Date
 ![Launch Date](resources/OutcomesTheaterLaunchDate.png)
 
-The char most successful campaigns are organized in May
+The char most successful campaigns are organized in May and June had a relatively high number of Successful theater campaigns and December had the least. 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes Based on Goals](resources/OutcomesBasedGoals.png)
 ### Challenges and Difficulties Encountered
