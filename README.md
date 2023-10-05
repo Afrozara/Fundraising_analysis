@@ -9,11 +9,14 @@ the purpose was for Louise’s play Fever to come close to its fundraising goal 
  we figured it had to be sorted and prepared for the analysis by creating a new column to show Percentage funded, Average Donation, split categories and subcategories, convert dates, and also creating a new column for the year of the Launched date.
 ![This was  based on the Outcomes of the Parent Category.](resources/Analysis and Challenges.png)
 The below chart is based on the Outcomes of the Parent Category. This chart shows that Theater was the most successful overall. 
+
 ![count outcomes countries](resources/outcomebuycountries.png)
 The below chart is based on the Subcategory Outcomes. And it helps us to conclude that the subcategory "Plays" is the most successful of all. 
+
 ### Analysis of Outcomes Based on Launch Date
 ![Launch Date](resources/OutcomesTheaterLaunchDate.png)
 The char most successful campaigns are organized in May and June had a relatively high number of Successful theater campaigns and December had the least. 
+
 ### Analysis of Outcomes Based on Goals
 ![Outcomes Based on Goals](resources/OutcomesBasedGoals.png)
 The below Line chart helps us to understand that Goals less than $1000 were 76% successful and most of the unsuccessful campaigns were around $45000 - $49999. 
