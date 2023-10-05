@@ -6,7 +6,7 @@ overview of the project is a challenge, an exercise of Excel prowess by creating
 the purpose was for Louise’s play Fever to come close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared about their launch dates and their funding goals. Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. We need to provide visualized feedback to Louise with insights to help her gain a better understanding of the campaign from start to finish so that she will be able to set her campaign to mirror other successful ones in the same category.
 
 ## Analysis and Challenges
-![this was  based on the Outcomes of the Parent Category.](resources/)
+![this was  based on the Outcomes of the Parent Category.](resources/Analysis and Challenges.png)
 ![count outcomes countries](resources/outcomebuycountries.png)
 ### Analysis of Outcomes Based on Launch Date
 ![Launch Date](resources/OutcomesTheaterLaunchDate.png)
