@@ -13,22 +13,29 @@ The below chart is based on the Outcomes of the Parent Category. This chart show
 The below chart is based on the Subcategory Outcomes. And it helps us to conclude that the subcategory "Plays" is the most successful of all. 
 ### Analysis of Outcomes Based on Launch Date
 ![Launch Date](resources/OutcomesTheaterLaunchDate.png)
-
 The char most successful campaigns are organized in May and June had a relatively high number of Successful theater campaigns and December had the least. 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes Based on Goals](resources/OutcomesBasedGoals.png)
+The below Line chart helps us to understand that Goals less than $1000 were 76% successful and most of the unsuccessful campaigns were around $45000 - $49999. 
 ### Challenges and Difficulties Encountered
 ![date conversion](resources/trend.png)
+Firstly, the dataset had to be sorted and organized to start the basic analysis.
+Had to further refine the searches using filters and updating the chart to view certain results.
+Experimented with the Pivot table and Charts and faced some formula errors which I had to learn and rectify.
+![the successful and failed of category](resources/outcomecategory.png)
+
 ## Results
 - What are two conclusions you can draw about the Outcomes based on the Launch Date?
-it's the success of may
-
+Launching the campaign at the right time is important for it to be successful.
+The length of the campaign can also be important to analyze.
 - What can you conclude about the Outcomes based on Goals?
-Outcome goals focus on the endpoint of success and failure.
+Outcome goals focus on the endpoint of success and failure As per the data gathered we can conclude that Louise's goal had a 54% chance of it being successful.
+Having a considerably high goal can also affect the campaign.
 
 - What are some limitations of this dataset?
- Limitations of a dataset
-
+Information on the Genre of plays would have helped determine the success of plays and give better analysis to Louise.
+The US and UK are the countries where most of the plays were successful. If we had more information about the cities and the age group of people going and watching the play would have been interesting to see.
+The dataset is from the year range - 2009 to 2017. If we had information about current data. We could have analyzed current trends.
 - What other possible tables and/or graphs could we create?
-An interactive dashboard 
-![the successful and failed of category](resources/outcomecategory.png)
+A clustered column chart can be used to show the outcomes based on the launch date.
+A stacked column A clustered column chart can be used to show Outcomes based on goals.
